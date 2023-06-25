@@ -1,5 +1,5 @@
 import Image from "../Main/Image";
-import logo from "../assets/img/logo.jpg";
+import logo from "../../assets/img/logo.jpg";
 import Channel from "./Channel";
 
 const Header = () => {

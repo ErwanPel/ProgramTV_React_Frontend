@@ -1,7 +1,7 @@
 import "./App.css";
 import data from "./assets/Json/data.json";
 import MainContent from "./components/Main/MainContent";
-import Header from "./components/Header";
+import Header from "./components/Header/Header";
 
 function App() {
   return (
